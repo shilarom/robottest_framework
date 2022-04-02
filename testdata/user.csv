@@ -1,0 +1,4 @@
+${relative_url};${id};${email};${first_name};${last_name};
+/api/users/1;1;george.bluth@reqres.in;George;Bluth;
+/api/users/2;2;janet.weaver@reqres.in;Janet;Weaver;
+/api/users/3;3;emma.wong@reqres.in;Emma;Wong;
